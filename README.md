@@ -48,3 +48,4 @@ The application uses MySQL as its database to store and manage canteen records.
 
 ## Developed For
 Academic Project - Canteen Management System
+Add MySQL database file
